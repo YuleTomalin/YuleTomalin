@@ -3,8 +3,8 @@
 
 ### _Currently interested in topics as:_ 
 - Numerical Computation/Analysis
-- Digital Design of Computer Architecture; and
-- Quantum Computing.
+- Digital Design of Computer Architecture
+- Quantum Computing and Algorithms
 
 ## Currently open for internships/part-time/research asst. related to:
 - Julia
